@@ -10,5 +10,6 @@ INTERNAL_FUNCTION_FILES = [
     "soz_vers",
     "benefits",
     "taxes",
+    "renten_anspruch_dag.py",
     "demographic_vars.py",
 ]
